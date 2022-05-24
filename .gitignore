@@ -1,0 +1,11 @@
+intermediate_tests/
+pushswap-tester/
+.vscode/
+libmy.a
+libmy_linked_list.a
+push_swap
+number_generator
+*.gc*
+unit_tests
+bubble_sort.c
+swap_operations.c
